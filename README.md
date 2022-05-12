@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on interesting embedded projects
 - 🤔 I’m looking for help with my future job as an Embedded Software Engineer
 - 💬 Ask me about ultrasonic inspection tools electronics
-- 📫 How to reach me: akhmelenko@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/akhmelenko/ and akhmelenko@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
